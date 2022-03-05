@@ -20,7 +20,7 @@
 
 ### App Walkthough GIF
 
-<img src="walkthrough2" width=250><br>
+<img src="walkthrough2.gif" width=250><br>
 
 
 ## Open-source libraries used
