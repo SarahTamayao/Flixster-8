@@ -30,7 +30,7 @@ Flixster is an app that allows users to browse movies from the [The Movie Databa
 
 ## Flixster Part 1
 
-- [x] (10pts) User can view a list of movies (title, poster image, and overview) currently playing in theaters from the Movie Database API.
+- [x]  User can view a list of movies (title, poster image, and overview) currently playing in theaters from the Movie Database API.
 
 #### BONUS
 - [x]  Views should be responsive for both landscape/portrait mode.
